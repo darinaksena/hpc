@@ -1,4 +1,4 @@
-# hpc L1
+# HPC L1
 ## System
 Google Colab: https://colab.research.google.com/drive/151805XTDg--dgHb3-AXJCpnWaqRhop_2#scrollTo=ojGuEt8MpJhA
 ## Experiment
