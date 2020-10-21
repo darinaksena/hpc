@@ -13,7 +13,7 @@ Google Colab: https://colab.research.google.com/drive/151805XTDg--dgHb3-AXJCpnWa
 
 ## Results
 ### Device memory
-|Matrix size|CPU time|GPU time|Speedup|
+|Matrix size|CPU time, s|GPU time, s|Speedup|
 |-----------|--------|--------|-------|
 |128|0.00021266937255859375| 0.04872474670410156|0.004364709658730594|
 | 256|0.0011779308319091798|0.0004307746887207031| 2.734447642240425|
@@ -23,7 +23,7 @@ Google Colab: https://colab.research.google.com/drive/151805XTDg--dgHb3-AXJCpnWa
 
 
 ### Shared memory
-|Matrix size|CPU time|GPU time|Speedup|
+|Matrix size|CPU time, s|GPU time, s|Speedup|
 |-----------|--------|--------|-------|
 |128|0.00020213127136230468| 0.04845128059387207| 0.00417184579818659|
 |256| 0.0011984825134277344| 0.00040311813354492186| 2.973030518097942|
