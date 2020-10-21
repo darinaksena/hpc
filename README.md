@@ -1,7 +1,9 @@
 # hpc L1
 ## System
 Google Colab: https://colab.research.google.com/drive/151805XTDg--dgHb3-AXJCpnWaqRhop_2#scrollTo=ojGuEt8MpJhA
-## Global memory
+## Experiment
+## Results
+### Global memory
 |Matrix size|CPU time|GPU time|Speedup|
 |-----------|--------|--------|-------|
 |128|0.00021266937255859375| 0.04872474670410156|0.004364709658730594|
@@ -11,7 +13,7 @@ Google Colab: https://colab.research.google.com/drive/151805XTDg--dgHb3-AXJCpnWa
 |2048|0.44664726257324217| 0.0004214763641357422| 1059.7207828939925|
 
 
-## Shared memory
+### Shared memory
 |Matrix size|CPU time|GPU time|Speedup|
 |-----------|--------|--------|-------|
 |128|0.00020213127136230468| 0.04845128059387207| 0.00417184579818659|
