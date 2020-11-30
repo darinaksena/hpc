@@ -283,6 +283,5 @@ int main()
     cudaFree(d_arrInd);
     cudaFree(d_bP);
     cudaFree(d_childrens);
-    //cudaFree(d_indexes);
 
 }
