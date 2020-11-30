@@ -30,7 +30,7 @@ void fitness(int count, int countInd, double* individuals, double* arrInd) {
             for (int k = 0; k < N; k++) {
                 f_approx += individuals[i * N + k] * powf(j * h + h, k);
             }
-            //àïïðîêñèìèðóþ sin(x) ïîòîìó, ÷òî 4 ãîäà áàêàëàâðèàòà
+            //Ã Ã¯Ã¯Ã°Ã®ÃªÃ±Ã¨Ã¬Ã¨Ã°Ã³Ã¾ sin(x) Ã¯Ã®Ã²Ã®Ã¬Ã³, Ã·Ã²Ã® 4 Ã£Ã®Ã¤Ã  Ã¡Ã ÃªÃ Ã«Ã Ã¢Ã°Ã¨Ã Ã²Ã 
             sumError += powf(sumError - sin(j * h + h), 2);
         }
 
